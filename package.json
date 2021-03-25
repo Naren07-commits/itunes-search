@@ -32,13 +32,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anjum121/react-itune-search.git"
+    "url": "git+https://github.com/Naren07-commits/itunes-search.git"
   },
   "keywords": [],
-  "author": "Anjum Nawab",
+  "author": "Narendra Chordiya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anjum121/react-itune-search/issues"
+    "url": "https://github.com/Naren07-commits/itunes-search.git/issues"
   },
-  "homepage": "http://anjum121.github.io/react-itune-search"
+  "homepage": "http://Naren07-commits.github.io/itunes-search"
 }
